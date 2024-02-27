@@ -27,16 +27,20 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
+    <div>
+    <a href="https://www.loom.com/share/bd20b7f0dc4341648181e48a843e3eba">
+    </a>
     <a href="https://www.loom.com/share/bd20b7f0dc4341648181e48a843e3eba">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/bd20b7f0dc4341648181e48a843e3eba-with-play.gif">
     </a>
+  </div>
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
 - I especially struggled with understanding the syntax of a closure. It took me countless hours to properly grasp how to call/implement a closure, especially exercise 4
-- I had some difficulties to interpret the methods' parameters for the exercise 6
+- I had some difficulties to interpret the methods' parameters for exercise 6
 
 ## License
 
